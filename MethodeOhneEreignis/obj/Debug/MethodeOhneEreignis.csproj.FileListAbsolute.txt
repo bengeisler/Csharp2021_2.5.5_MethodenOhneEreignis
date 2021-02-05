@@ -1,0 +1,10 @@
+C:\Users\b\source\repos\MethodeOhneEreignis\MethodeOhneEreignis\bin\Debug\MethodeOhneEreignis.exe.config
+C:\Users\b\source\repos\MethodeOhneEreignis\MethodeOhneEreignis\bin\Debug\MethodeOhneEreignis.exe
+C:\Users\b\source\repos\MethodeOhneEreignis\MethodeOhneEreignis\bin\Debug\MethodeOhneEreignis.pdb
+C:\Users\b\source\repos\MethodeOhneEreignis\MethodeOhneEreignis\obj\Debug\MethodeOhneEreignis.csprojAssemblyReference.cache
+C:\Users\b\source\repos\MethodeOhneEreignis\MethodeOhneEreignis\obj\Debug\MethodeOhneEreignis.Form1.resources
+C:\Users\b\source\repos\MethodeOhneEreignis\MethodeOhneEreignis\obj\Debug\MethodeOhneEreignis.Properties.Resources.resources
+C:\Users\b\source\repos\MethodeOhneEreignis\MethodeOhneEreignis\obj\Debug\MethodeOhneEreignis.csproj.GenerateResource.cache
+C:\Users\b\source\repos\MethodeOhneEreignis\MethodeOhneEreignis\obj\Debug\MethodeOhneEreignis.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\MethodeOhneEreignis\MethodeOhneEreignis\obj\Debug\MethodeOhneEreignis.exe
+C:\Users\b\source\repos\MethodeOhneEreignis\MethodeOhneEreignis\obj\Debug\MethodeOhneEreignis.pdb
